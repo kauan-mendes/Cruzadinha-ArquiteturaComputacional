@@ -6,7 +6,7 @@
       height="256"
     />
 </p>
-<h1 align="center">Cruzadinha</h1>
+
 
 ## Objetivo do Projeto
 Desenvolver uma cruzadinha para interação com o usuario final. 
