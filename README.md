@@ -1,8 +1,8 @@
 <p align="center">
     <img 
-      src="https://i.imgur.com/8fDd3yj.png"
+      src="https://i.imgur.com/q8jJ2up.png"
       alt="logo Allincare" 
-      width="350" 
+      width="250" 
       height="256"
     />
 </p>
