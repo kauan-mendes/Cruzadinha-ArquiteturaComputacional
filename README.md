@@ -1,4 +1,6 @@
-<p align="center"> h1 Cruzadinha color="green" </p>
+<div align="center">
+ # h1 Cruzadinha 
+</div>
 
 
 ## Objetivo do Projeto
