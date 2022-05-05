@@ -2,7 +2,7 @@
     <img 
       src="https://i.imgur.com/8fDd3yj.png"
       alt="logo Allincare" 
-      width="250" 
+      width="350" 
       height="256"
     />
 </p>
