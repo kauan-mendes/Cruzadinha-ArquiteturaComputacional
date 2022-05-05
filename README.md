@@ -1,4 +1,4 @@
-#Cruzadinha em html
+# Cruzadinha em html
 
 ## Objetivo do Projeto
 Desenvolver uma cruzadinha para interação com o usuario final. 
