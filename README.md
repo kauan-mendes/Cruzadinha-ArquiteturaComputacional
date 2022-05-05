@@ -1,6 +1,6 @@
 <p align="center">
     <img 
-      src="https://i.imgur.com/q8jJ2up.png"
+      src="https://i.imgur.com/1QcNDEE.png"
       alt="logo Allincare" 
       width="250" 
       height="256"
