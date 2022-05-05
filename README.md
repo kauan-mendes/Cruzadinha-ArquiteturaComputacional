@@ -1,7 +1,7 @@
 <p align="center">
     <img 
       src="https://i.imgur.com/OXe95eQ.png"
-      alt="logo Allincare" 
+      alt="logo GKY" 
       width="250" 
       height="256"
     />
