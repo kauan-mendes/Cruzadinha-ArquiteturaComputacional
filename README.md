@@ -3,7 +3,7 @@
       src="https://i.imgur.com/8fDd3yj.png"
       alt="logo Allincare" 
       width="250" 
-      height="106"
+      height="606"
     />
 </p>
 <h1 align="center">Cruzadinha</h1>
