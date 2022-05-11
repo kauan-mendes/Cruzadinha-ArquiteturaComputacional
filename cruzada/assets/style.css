@@ -1,0 +1,153 @@
+/**STYLE**/
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+body {
+  color: #646464;
+  background: #000000;
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+}
+h1,
+h2 {
+  color: #6e4e94;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  margin-bottom: 0.3em;
+}
+h2 {
+  font-size: 1.5em;
+}
+button {
+  color: #fff;
+  background: #6e4e94;
+  text-transform: uppercase;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 1em;
+  cursor: pointer;
+  padding: 0.5em 2em;
+  margin-top: 1em;
+}
+input[type=text] {
+  border: 2px solid #6e4e94;
+  background: #e7e7e7;
+  padding: 1%;
+  text-transform: uppercase;
+  margin: 1em;
+  text-align: center;
+}
+main {
+  border: solid red 2px;
+  width: 100%;
+  max-width: 1080px;
+  margin: auto;
+  font-size: 1.1em;
+  position: relative;
+  z-index: 0;
+}
+main img {
+  width: 100%;
+  display: block;
+}
+main .help {
+  position: absolute;
+  width: 6%;
+  right: 1em;
+  top: 1em;
+  cursor: pointer;
+}
+main .grid {
+  width: 94%;
+  padding: 2%;
+}
+main .grid .row {
+  width: 96%;
+  padding: 0 2%;
+  height: 8%;
+  float: left;
+}
+main .grid .row div {
+  width: 4%;
+  height: 100%;
+  float: left;
+  text-align: center;
+  color: #e7e7e7;
+  border: 2px solid #e7e7e7;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-radius: 5px;
+}
+main .grid .row .l {
+  border: 2px solid #999;
+}
+main .grid .row .a {
+  color: #6e4e94;
+  font-weight: bold;
+  cursor: pointer;
+}
+main .grid .row .e {
+  color: #646464;
+}
+main .opts {
+  width: 100%;
+}
+main .opts .hint {
+  width: 70%;
+  margin: 0.8em;
+  padding: 0.8em;
+  border: 2px solid #6e4e94;
+  border-radius: 1em;
+  text-align: center;
+  float: left;
+}
+main .opts .conf {
+  width: 20%;
+  float: right;
+}
+main .opts .conf .timer {
+  width: 60%;
+  padding: 22% 5%;
+  margin: 0.4em 30%;
+  border: 2px solid #6e4e94;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 2em;
+}
+.modal {
+  position: absolute;
+  width: 56%;
+  top: 20%;
+  left: 20%;
+  padding: 2%;
+  background: #fff;
+  border-radius: 1em;
+  z-index: 2;
+  text-align: center;
+}
+/* .fade {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+} */
+@media screen and (max-width: 1080px) {
+  main {
+    font-size: 1.8vw;
+  }
+}
+@media screen and (max-height: 810px) {
+  main {
+    font-size: 2vh;
+    width: 133vh;
+    height: 100vh;
+  }
+}
