@@ -1,7 +1,9 @@
 body{
 margin: 0;
 padding: 0;
-background-color: aquamarine;
+background: rgba(255, 0, 0, 0.315);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(60px);
 
 }
 
@@ -13,6 +15,10 @@ input{
 td{
     margin: 0;
     padding: 0;
+}
+
+.tudinho{
+    margin-left: 5%;
 }
 
 .flash{
