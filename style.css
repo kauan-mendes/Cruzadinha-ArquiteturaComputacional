@@ -15,209 +15,111 @@ td{
     padding: 0;
 }
 
-
-
-.a10{
-
-}
-.a11{
-
-}
-.a12{
-
-}
-.a13{
-
-}
-.a14{
-
-}
-.a15{
-
-}
-.a16{
-
-}
-.a17{
-
-}
-.a18{
-
-}
-.a19{
-
-}
-.a20{
-
-}
-.a21{
-
-}
-.a22{
-
-}
-.a23{
-
-}
-.a24{
-
-}
-.a25{
-
-}
-.a26{
-
-}
-.a27{
-
-}
-.a28{
-
-}
-.a29{
-
-}
-.a30{
-
-}
-.a31{
-
-}
-.a32{
-
-}
-.a33{
-
-}
-.a34{
-
-}
-.a35{
-
-}
-.a36{
-
-}
-.a37{
-
-}
-.a38{
-
-}
-.a39{
-
-}
-.a40{
-
-}
-.a41{
-
-}
-.a42{
-
+.flash{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    width: 100%;
+}
+
+#ipt_letra1_p9{
+    position: absolute;
+    top: 16.5%;
+    
+    left: 14.8%;
+    height: 2.4%;   
+}
+
+#ipt_letra2_p9{
+    position: absolute;
+    left: 17.4%;
+    top: 16.5%;
+    height: 2.4%;
+}
+
+/* #ipt_letra1_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 19.9%;
+}
+ */#ipt_letra2_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 19.8%;
+}
+/* #ipt_letra3_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 26.8%;
+} */
+#ipt_letra4_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 22.8%;
+}
+#ipt_letra5_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 25.8%;
+}
+#ipt_letra6_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 28.7%;
+}
+#ipt_letra7_p15{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 14.8%;
+    top: 31.7%;
+}
+#ipt_letra1_p2{
+    position: absolute;
+    left: 9.7%;
+    top: 22.8%;
+}
+#ipt_letra2_p2{
+    position: absolute;
+    left: 12.2%;
+    top: 22.8%
+}
+#ipt_letra1_p5{
+    position: absolute;
+    left: 12.2%;
+    top: 31.8%;
+}
+#ipt_letra2_p5{
+    position: absolute;
+    left: 17.4%;
+    top: 31.8%;
+}
+#ipt_letra1_p3{
+
+}
+#ipt_letra2_p3{
+
+}
+#ipt_letra3_p3{
+
 }
-.a43{
+#ipt_letra4_p3{
 
 }
-.a44{
-
-}
-.a45{
-
-}
-.a46{
-
-}
-.a47{
-
-}
-.a48{
-
-}
-.a49{
-
-}
-.a50{
-
-}
-.a51{
-
-}
-.a52{
-
-}
-.a53{
-
-}
-.a54{
-
-}
-.a55{
-
-}
-.a56{
-
-}
-.a57{
-
-}
-.a58{
-
-}
-.a59{
-
-}
-.a60{
-
-}
-.a61{
-
-}
-.a62{
-
-}
-.a63{
-
-}
-.a64{
-
-}
-.a65{
-
-}
-.a66{
-
-}
-.a67{
-
-}
-.a68{
-
-}
-.a69{
-
-}
-.a70{
-
-}
-.a71{
-
-}
-.a72{
-
-}
-.a73{
-
-}
-.a74{
-
-}
-.a75{
-
-}
-.a76{
-
-}
-.a77{
-
+#ipt_letra5_p3{
+    
 }
